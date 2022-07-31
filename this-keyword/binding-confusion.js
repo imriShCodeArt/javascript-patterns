@@ -8,4 +8,4 @@ function baz(){
 }
 
 var bar = 'bar2';
-foo();
+foo();      // ???
